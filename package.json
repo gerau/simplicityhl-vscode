@@ -1,7 +1,7 @@
 {
   "name": "simplicityhl",
   "displayName": "SimplicityHL Language Support",
-  "description": "Syntax highlighting and autocompletion for SimplicityHL (Simfony) language",
+  "description": "Syntax highlighting and autocompletion for SimplicityHL language",
   "version": "0.4.0",
   "publisher": "Blockstream",
   "repository": {
@@ -20,8 +20,6 @@
       {
         "id": "simplicityhl",
         "aliases": [
-          "Simfony",
-          "simfony",
           "SimplicityHL",
           "simplicityhl"
         ],
@@ -37,8 +35,6 @@
       {
         "id": "simplicityhl-witness",
         "aliases": [
-          "Simfony witness",
-          "simfony witness",
           "SimplicityHL witness",
           "simplicityhl witness"
         ],

@@ -12,3 +12,5 @@ eslint.config.ts
 *.ts
 dist/**/*.map
 assets
+CONTEXT.md
+contexts/**
